@@ -1,0 +1,9 @@
+EM PHOTO PRO Android v1.0 - PROYECTO FUENTE, NO APK.
+
+Incluye el editor v0.3.1, icono lila, selector de fotos y guardado JPG en Imágenes/EM PHOTO PRO.
+
+Requisitos de compilación: Android Studio, JDK 17, Android SDK 35, Gradle (Android Studio puede descargarlo).
+Abrir carpeta como proyecto en Android Studio y usar Build > Build APK(s).
+Android 10 o superior (API 29+).
+
+Sin compilar ni probar en dispositivo; verificar selector, exportación y rendimiento antes de distribuir.
