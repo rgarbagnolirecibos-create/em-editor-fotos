@@ -1,5 +1,5 @@
 
-name: EM PHOTO PRO - Android APK
+name: EM PHOTO PRO - android-apk.yml
 
 on:
   workflow_dispatch:
